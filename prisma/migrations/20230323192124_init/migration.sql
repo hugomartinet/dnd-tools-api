@@ -5,9 +5,10 @@ CREATE TYPE "Size" AS ENUM ('TINY', 'SMALL', 'MEDIUM', 'LARGE', 'HUGE', 'GARGANT
 CREATE TABLE "Race" (
     "id" TEXT NOT NULL,
     "name" TEXT NOT NULL,
+    "main_race" TEXT NOT NULL,
     "size" "Size" NOT NULL,
     "speed" DOUBLE PRECISION NOT NULL,
-    "skills" JSONB NOT NULL,
+    "modifiers" TEXT[],
     "traits" TEXT[],
 
     CONSTRAINT "Race_pkey" PRIMARY KEY ("id")

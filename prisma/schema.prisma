@@ -17,10 +17,11 @@ enum Size {
 }
 
 model Race {
-  id     String   @id @unique
-  name   String
-  size   Size
-  speed  Float
-  skills Json
-  traits String[]
+  id        String   @id @unique
+  name      String
+  main_race String
+  size      Size
+  speed     Float
+  modifiers String[]
+  traits    String[]
 }
