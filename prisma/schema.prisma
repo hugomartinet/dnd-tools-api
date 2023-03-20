@@ -1,0 +1,26 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Size {
+  TINY
+  SMALL
+  MEDIUM
+  LARGE
+  HUGE
+  GARGANTUAN
+}
+
+model Race {
+  id     String   @id @unique
+  name   String
+  size   Size
+  speed  Float
+  skills Json
+  traits String[]
+}
