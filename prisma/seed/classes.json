@@ -1,0 +1,321 @@
+[
+  {
+    "id": "barbare",
+    "name": "Barbare",
+    "hit_dice": 12,
+    "proficiencies": [
+      "armure:legere",
+      "armure:intermediaire",
+      "armure:bouclier",
+      "arme:courante",
+      "arme:guerre",
+      "sauvegarde:force",
+      "sauvegarde:constitution",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "athletisme",
+      "dressage",
+      "intimidation",
+      "nature",
+      "perception",
+      "survie"
+    ]
+  },
+
+  {
+    "id": "barde",
+    "name": "Barde",
+    "hit_dice": 8,
+    "proficiencies": [
+      "armure:legere",
+      "arme:courante",
+      "arme:arbalete-de-poing",
+      "arme:epee-courte",
+      "arme:epee-longue",
+      "arme:rapiere",
+      "instrument:au-choix:3",
+      "sauvegarde:dexterite",
+      "sauvegarde:charisme",
+      "competence:au-choix:3"
+    ],
+    "skills": [
+      "acrobaties",
+      "arcanes",
+      "athletisme",
+      "discretion",
+      "dressage",
+      "escamotage",
+      "histoire",
+      "intimidation",
+      "intuition",
+      "investigation",
+      "medecine",
+      "nature",
+      "perception",
+      "persuasion",
+      "religion",
+      "representation",
+      "survie",
+      "tromperie"
+    ],
+    "spellcasting_ability": "charisme"
+  },
+
+  {
+    "id": "clerc",
+    "name": "Clerc",
+    "hit_dice": 8,
+    "proficiencies": [
+      "armure:legere",
+      "armure:intermediaire",
+      "armure:bouclier",
+      "arme:courante",
+      "sauvegarde:sagesse",
+      "sauvegarde:charisme",
+      "competence:au-choix:2"
+    ],
+    "skills": ["histoire", "intuition", "medecine", "persuasion", "religion"],
+    "spellcasting_ability": "sagesse"
+  },
+
+  {
+    "id": "druide",
+    "name": "Druide",
+    "hit_dice": 8,
+    "proficiencies": [
+      "armure:legere:",
+      "armure:intermediaire",
+      "armure:bouclier",
+      "arme:gourdin",
+      "arme:dague",
+      "arme:flechette",
+      "arme:javeline",
+      "arme:masse-d-armes",
+      "arme:baton",
+      "arme:cimeterre",
+      "arme:fronde",
+      "arme:serpe",
+      "arme:lance",
+      "kit:herboriste",
+      "sauvegarde:intelligence",
+      "sauvegarde:sagesse",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "arcanes",
+      "dressage",
+      "intuition",
+      "medecine",
+      "nature",
+      "perception",
+      "religion",
+      "survie"
+    ],
+    "spellcasting_ability": "sagesse"
+  },
+
+  {
+    "id": "ensorceleur",
+    "name": "Ensorceleur",
+    "hit_dice": 6,
+    "proficiencies": [
+      "arme:dague",
+      "arme:flechette",
+      "arme:fronde",
+      "arme:baton",
+      "arme:arbalete-legere",
+      "sauvegarde:constitution",
+      "sauvegarde:charisme",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "arcanes",
+      "intimidation",
+      "intuition",
+      "persuasion",
+      "religion",
+      "tromperie"
+    ],
+    "spellcasting_ability": "charisme"
+  },
+
+  {
+    "id": "guerrier",
+    "name": "Guerrier",
+    "hit_dice": 10,
+    "proficiencies": [
+      "armure:legere",
+      "armure:intermediaire",
+      "armure:lourde",
+      "arme:courante",
+      "arme:guerre",
+      "sauvegarde:force",
+      "sauvegarde:constitution",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "acrobaties",
+      "athletisme",
+      "dressage",
+      "histoire",
+      "intimidation",
+      "intuition",
+      "perception",
+      "survie"
+    ]
+  },
+
+  {
+    "id": "magicien",
+    "name": "Magicien",
+    "hit_dice": 6,
+    "proficiencies": [
+      "arme:dague",
+      "arme:flechette",
+      "arme:fronde",
+      "arme:baton",
+      "arme:arbalete-legere",
+      "sauvegarde:intelligence",
+      "sauvegarde:sagesse",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "arcanes",
+      "histoire",
+      "intuition",
+      "investigation",
+      "medecine",
+      "religion"
+    ],
+    "spellcasting_ability": "intelligence"
+  },
+
+  {
+    "id": "moine",
+    "name": "Moine",
+    "hit_dice": 8,
+    "proficiencies": [
+      "arme:courante",
+      "arme:epee-courte",
+      "artisan:au-choix:1|instrument:au-choix:1",
+      "sauvegarde:force",
+      "sauvegarde:dexterite",
+      "competence:au-choix:3"
+    ],
+    "skills": [
+      "acrobaties",
+      "athletisme",
+      "discretion",
+      "histoire",
+      "intuition",
+      "religion"
+    ]
+  },
+
+  {
+    "id": "occultiste",
+    "name": "Occultiste",
+    "hit_dice": 8,
+    "proficiencies": [
+      "armure:legere",
+      "arme:courante",
+      "sauvegarde:sagesse",
+      "sauvegarde:charisme",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "arcanes",
+      "histoire",
+      "intimidation",
+      "investigation",
+      "nature",
+      "religion",
+      "tromperie"
+    ],
+    "spellcasting_ability": "charisme"
+  },
+
+  {
+    "id": "paladin",
+    "name": "Paladin",
+    "hit_dice": 10,
+    "proficiencies": [
+      "armure:legere",
+      "armure:intermediaire",
+      "armure:lourde",
+      "arme:courante",
+      "arme:guerre",
+      "sauvegarde:sagesse",
+      "sauvegarde:charisme",
+      "competence:au-choix:2"
+    ],
+    "skills": [
+      "athletisme",
+      "intimidation",
+      "intuition",
+      "medecine",
+      "persuasion",
+      "religion"
+    ],
+    "spellcasting_ability": "charisme"
+  },
+
+  {
+    "id": "rodeur",
+    "name": "Rôdeur",
+    "hit_dice": 10,
+    "proficiencies": [
+      "armure:legere",
+      "armure:intermediaire",
+      "armure:bouclier",
+      "arme:courante",
+      "arme:guerre",
+      "sauvegarde:force",
+      "sauvegarde:dexterite",
+      "competence:au-choix:3"
+    ],
+    "skills": [
+      "athletisme",
+      "discretion",
+      "dressage",
+      "intuition",
+      "investigation",
+      "nature",
+      "perception",
+      "survie"
+    ],
+    "spellcasting_ability": "sagesse"
+  },
+
+  {
+    "id": "roublard",
+    "name": "Roublard",
+    "hit_dice": 8,
+    "proficiencies": [
+      "armure:legere",
+      "arme:courante",
+      "arme:arbalete-de-poing",
+      "arme:epee-courte",
+      "arme:epee-longue",
+      "arme:rapiere",
+      "outil:voleur",
+      "sauvegarde:dexterite",
+      "sauvegarde:intelligence",
+      "competence:au-choix:4"
+    ],
+    "skills": [
+      "acrobaties",
+      "athletisme",
+      "discretion",
+      "escamotage",
+      "intimidation",
+      "intuition",
+      "investigation",
+      "perception",
+      "persuasion",
+      "representation",
+      "tromperie"
+    ]
+  }
+]

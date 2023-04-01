@@ -1,0 +1,121 @@
+[
+  {
+    "id": "demi_elfe",
+    "name": "Demi-elfe",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "charisme": 2, "au-choix": [1, 1] },
+    "traits": []
+  },
+  {
+    "id": "demi_orc",
+    "name": "Demi-orc",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "force": 2, "constitution": 1 },
+    "traits": []
+  },
+  {
+    "id": "drakeide",
+    "name": "Drakéide",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "force": 2, "charisme": 1 },
+    "traits": []
+  },
+  {
+    "id": "elfe_des_bois",
+    "name": "Elfe des bois",
+    "size": "Moyenne",
+    "speed": 10.5,
+    "modifiers": { "dexterite": 2, "sagesse": 1 },
+    "traits": []
+  },
+  {
+    "id": "elfe_noir",
+    "name": "Elfe noir",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "dexterite": 2, "charisme": 1 },
+    "traits": []
+  },
+  {
+    "id": "gnome_des_forets",
+    "name": "Gnome des forêts",
+    "size": "Petite",
+    "speed": 7.5,
+    "modifiers": { "dexterite": 1, "intelligence": 2 },
+    "traits": []
+  },
+  {
+    "id": "gnome_des_roches",
+    "name": "Gnome des roches",
+    "size": "Petite",
+    "speed": 7.5,
+    "modifiers": { "constitution": 1, "intelligence": 2 },
+    "traits": []
+  },
+  {
+    "id": "halfelin_pied_leger",
+    "name": "Halfelin pied-léger",
+    "size": "Petite",
+    "speed": 7.5,
+    "modifiers": { "dexterite": 2, "charisme": 2 },
+    "traits": []
+  },
+  {
+    "id": "halfelin_robuste",
+    "name": "Halfelin robuste",
+    "size": "Petite",
+    "speed": 7.5,
+    "modifiers": { "dexterite": 2, "constitution": 1 },
+    "traits": []
+  },
+  {
+    "id": "haut_elfe",
+    "name": "Haut-elfe",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "dexterite": 2, "intelligence": 1 },
+    "traits": []
+  },
+  {
+    "id": "humain",
+    "name": "Humain",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": {
+      "force": 1,
+      "dexterite": 1,
+      "constitution": 1,
+      "intelligence": 1,
+      "sagesse": 1,
+      "charisme": 1
+    },
+    "traits": []
+  },
+  {
+    "id": "nain_des_collines",
+    "name": "Nain des collines",
+    "size": "Moyenne",
+    "speed": 7.5,
+    "modifiers": { "constitution": 2, "sagesse": 1 },
+    "traits": []
+  },
+  {
+    "id": "nain_des_montagnes",
+    "name": "Nain des montagnes",
+    "size": "Moyenne",
+    "speed": 7.5,
+    "modifiers": { "force": 2, "constitution": 2 },
+    "traits": []
+  },
+  {
+    "id": "tieffelin",
+    "name": "Tieffelin",
+    "size": "Moyenne",
+    "speed": 9,
+    "modifiers": { "intelligence": 1, "charisme": 2 },
+    "traits": []
+  }
+]
