@@ -35,7 +35,7 @@
       "arme:epee-longue",
       "arme:rapiere",
       "instrument:au-choix:3",
-      "sauvegarde:dexterite",
+      "sauvegarde:dextérité",
       "sauvegarde:charisme",
       "competence:au-choix:3"
     ],
@@ -200,7 +200,7 @@
       "arme:epee-courte",
       "artisan:au-choix:1|instrument:au-choix:1",
       "sauvegarde:force",
-      "sauvegarde:dexterite",
+      "sauvegarde:dextérité",
       "competence:au-choix:3"
     ],
     "skills": [
@@ -272,7 +272,7 @@
       "arme:courante",
       "arme:guerre",
       "sauvegarde:force",
-      "sauvegarde:dexterite",
+      "sauvegarde:dextérité",
       "competence:au-choix:3"
     ],
     "skills": [
@@ -300,7 +300,7 @@
       "arme:epee-longue",
       "arme:rapiere",
       "outil:voleur",
-      "sauvegarde:dexterite",
+      "sauvegarde:dextérité",
       "sauvegarde:intelligence",
       "competence:au-choix:4"
     ],

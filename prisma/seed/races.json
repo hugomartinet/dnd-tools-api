@@ -28,7 +28,7 @@
     "name": "Elfe des bois",
     "size": "Moyenne",
     "speed": 10.5,
-    "modifiers": { "dexterite": 2, "sagesse": 1 },
+    "modifiers": { "dextérité": 2, "sagesse": 1 },
     "traits": []
   },
   {
@@ -36,7 +36,7 @@
     "name": "Elfe noir",
     "size": "Moyenne",
     "speed": 9,
-    "modifiers": { "dexterite": 2, "charisme": 1 },
+    "modifiers": { "dextérité": 2, "charisme": 1 },
     "traits": []
   },
   {
@@ -44,7 +44,7 @@
     "name": "Gnome des forêts",
     "size": "Petite",
     "speed": 7.5,
-    "modifiers": { "dexterite": 1, "intelligence": 2 },
+    "modifiers": { "dextérité": 1, "intelligence": 2 },
     "traits": []
   },
   {
@@ -60,7 +60,7 @@
     "name": "Halfelin pied-léger",
     "size": "Petite",
     "speed": 7.5,
-    "modifiers": { "dexterite": 2, "charisme": 2 },
+    "modifiers": { "dextérité": 2, "charisme": 2 },
     "traits": []
   },
   {
@@ -68,7 +68,7 @@
     "name": "Halfelin robuste",
     "size": "Petite",
     "speed": 7.5,
-    "modifiers": { "dexterite": 2, "constitution": 1 },
+    "modifiers": { "dextérité": 2, "constitution": 1 },
     "traits": []
   },
   {
@@ -76,7 +76,7 @@
     "name": "Haut-elfe",
     "size": "Moyenne",
     "speed": 9,
-    "modifiers": { "dexterite": 2, "intelligence": 1 },
+    "modifiers": { "dextérité": 2, "intelligence": 1 },
     "traits": []
   },
   {
@@ -86,7 +86,7 @@
     "speed": 9,
     "modifiers": {
       "force": 1,
-      "dexterite": 1,
+      "dextérité": 1,
       "constitution": 1,
       "intelligence": 1,
       "sagesse": 1,
