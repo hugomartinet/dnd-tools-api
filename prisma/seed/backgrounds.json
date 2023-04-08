@@ -1,0 +1,130 @@
+[
+  {
+    "id": "acolyte",
+    "name": "Acolyte",
+    "proficiencies": [
+      "compétence:intuition",
+      "compétence:religion",
+      "language:au-choix:2"
+    ]
+  },
+  {
+    "id": "artisan-de-guilde",
+    "name": "Artisan de guilde",
+    "proficiencies": [
+      "compétence:intuition",
+      "compétence:persuasion",
+      "artisan:au-choix:1",
+      "language:au-choix:1"
+    ]
+  },
+  {
+    "id": "artiste",
+    "name": "Artiste",
+    "proficiencies": [
+      "compétence:acrobatie",
+      "compétence:représentation",
+      "kit:déguisement",
+      "instrument:au-choix:1"
+    ]
+  },
+  {
+    "id": "charlatan",
+    "name": "Charlatan",
+    "proficiencies": [
+      "compétence:escamotage",
+      "compétence:tromperie",
+      "kit:contrefaçon",
+      "kit:déguisement"
+    ]
+  },
+  {
+    "id": "criminel",
+    "name": "Criminel",
+    "proficiencies": [
+      "compétence:discrétion",
+      "compétence:tromperie",
+      "outil:voleur",
+      "jeu:au-choix:1"
+    ]
+  },
+  {
+    "id": "enfant-des-rues",
+    "name": "Enfant des rues",
+    "proficiencies": [
+      "compétence:discrétion",
+      "compétence:escamotage",
+      "kit:déguisement",
+      "outil:voleur"
+    ]
+  },
+  {
+    "id": "ermite",
+    "name": "Ermite",
+    "proficiencies": [
+      "compétence:médecine",
+      "compétence:religion",
+      "kit:herboriste",
+      "language:au-choix:1"
+    ]
+  },
+  {
+    "id": "heros-du-peuple",
+    "name": "Héros du peuple",
+    "proficiencies": [
+      "compétence:dressage",
+      "compétence:survie",
+      "artisan:au-choix:1",
+      "véhicule:terrestre"
+    ]
+  },
+  {
+    "id": "marin",
+    "name": "Marin",
+    "proficiencies": [
+      "compétence:athlétisme",
+      "compétence:perception",
+      "outil:navigateur",
+      "véhicule:aquatique"
+    ]
+  },
+  {
+    "id": "noble",
+    "name": "Noble",
+    "proficiencies": [
+      "compétence:histoire",
+      "compétence:persuasion",
+      "jeu:au-choix:1",
+      "language:au-choix:1"
+    ]
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "proficiencies": [
+      "compétence:arcanes",
+      "compétence:histoire",
+      "language:au-choix:2"
+    ]
+  },
+  {
+    "id": "sauvageon",
+    "name": "Sauvageon",
+    "proficiencies": [
+      "compétence:athlétisme",
+      "compétence:survie",
+      "instrument:au-choix:1",
+      "language:au-choix:1"
+    ]
+  },
+  {
+    "id": "soldat",
+    "name": "Soldat",
+    "proficiencies": [
+      "compétence:athlétisme",
+      "compétence:intimidation",
+      "jeu:au-choix:1",
+      "véhicule:terrestre"
+    ]
+  }
+]

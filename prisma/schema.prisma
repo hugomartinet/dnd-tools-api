@@ -26,6 +26,12 @@ model Class {
   spells               ClassSpells[]
 }
 
+model Background {
+  id            String   @id
+  name          String
+  proficiencies String[]
+}
+
 model Spell {
   id           String        @id
   name         String
