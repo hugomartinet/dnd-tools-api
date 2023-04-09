@@ -14,42 +14,51 @@ model Race {
   speed     Float
   modifiers Json
   traits    String[]
+
+  @@map("race")
 }
 
 model Class {
-  id                   String        @id
-  name                 String
-  hit_dice             Int
-  proficiencies        String[]
-  skills               String[]
-  spellcasting_ability String?
-  spells               ClassSpells[]
+  id                  String        @id
+  name                String
+  hitDice             Int           @map("hit_dice")
+  proficiencies       String[]
+  skills              String[]
+  spellcastingAbility String?       @map("spellcasting_ability")
+  spells              ClassSpells[]
+
+  @@map("class")
 }
 
 model Background {
   id            String   @id
   name          String
   proficiencies String[]
+
+  @@map("background")
 }
 
 model Spell {
-  id           String        @id
-  name         String
-  level        Int
-  school       String
-  casting_time String
-  range        String
-  components   String[]
-  duration     String
-  description  Json[]
-  classes      ClassSpells[]
+  id          String        @id
+  name        String
+  level       Int
+  school      String
+  castingTime String        @map("casting_time")
+  range       String
+  components  String[]
+  duration    String
+  description Json[]
+  classes     ClassSpells[]
+
+  @@map("spell")
 }
 
 model ClassSpells {
   class   Class  @relation(fields: [classId], references: [id])
-  classId String
+  classId String @map("class_id")
   spell   Spell  @relation(fields: [spellId], references: [id])
-  spellId String
+  spellId String @map("spell_id")
 
   @@id([classId, spellId])
+  @@map("class_spells")
 }

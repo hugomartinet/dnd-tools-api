@@ -2,7 +2,7 @@
   {
     "id": "barbare",
     "name": "Barbare",
-    "hit_dice": 12,
+    "hitDice": 12,
     "proficiencies": [
       "armure:légère",
       "armure:intermédiaire",
@@ -26,7 +26,7 @@
   {
     "id": "barde",
     "name": "Barde",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "armure:légère",
       "arme:courante",
@@ -59,13 +59,13 @@
       "survie",
       "tromperie"
     ],
-    "spellcasting_ability": "charisme"
+    "spellcastingAbility": "charisme"
   },
 
   {
     "id": "clerc",
     "name": "Clerc",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "armure:légère",
       "armure:intermédiaire",
@@ -76,13 +76,13 @@
       "compétence:au-choix:2"
     ],
     "skills": ["histoire", "intuition", "médecine", "persuasion", "religion"],
-    "spellcasting_ability": "sagesse"
+    "spellcastingAbility": "sagesse"
   },
 
   {
     "id": "druide",
     "name": "Druide",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "armure:légère:",
       "armure:intermédiaire",
@@ -112,13 +112,13 @@
       "religion",
       "survie"
     ],
-    "spellcasting_ability": "sagesse"
+    "spellcastingAbility": "sagesse"
   },
 
   {
     "id": "ensorceleur",
     "name": "Ensorceleur",
-    "hit_dice": 6,
+    "hitDice": 6,
     "proficiencies": [
       "arme:dague",
       "arme:fléchette",
@@ -137,13 +137,13 @@
       "religion",
       "tromperie"
     ],
-    "spellcasting_ability": "charisme"
+    "spellcastingAbility": "charisme"
   },
 
   {
     "id": "guerrier",
     "name": "Guerrier",
-    "hit_dice": 10,
+    "hitDice": 10,
     "proficiencies": [
       "armure:légère",
       "armure:intermédiaire",
@@ -169,7 +169,7 @@
   {
     "id": "magicien",
     "name": "Magicien",
-    "hit_dice": 6,
+    "hitDice": 6,
     "proficiencies": [
       "arme:dague",
       "arme:fléchette",
@@ -188,13 +188,13 @@
       "médecine",
       "religion"
     ],
-    "spellcasting_ability": "intelligence"
+    "spellcastingAbility": "intelligence"
   },
 
   {
     "id": "moine",
     "name": "Moine",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "arme:courante",
       "arme:épée-courte",
@@ -216,7 +216,7 @@
   {
     "id": "occultiste",
     "name": "Occultiste",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "armure:légère",
       "arme:courante",
@@ -233,13 +233,13 @@
       "religion",
       "tromperie"
     ],
-    "spellcasting_ability": "charisme"
+    "spellcastingAbility": "charisme"
   },
 
   {
     "id": "paladin",
     "name": "Paladin",
-    "hit_dice": 10,
+    "hitDice": 10,
     "proficiencies": [
       "armure:légère",
       "armure:intermédiaire",
@@ -258,13 +258,13 @@
       "persuasion",
       "religion"
     ],
-    "spellcasting_ability": "charisme"
+    "spellcastingAbility": "charisme"
   },
 
   {
     "id": "rodeur",
     "name": "Rôdeur",
-    "hit_dice": 10,
+    "hitDice": 10,
     "proficiencies": [
       "armure:légère",
       "armure:intermédiaire",
@@ -285,13 +285,13 @@
       "perception",
       "survie"
     ],
-    "spellcasting_ability": "sagesse"
+    "spellcastingAbility": "sagesse"
   },
 
   {
     "id": "roublard",
     "name": "Roublard",
-    "hit_dice": 8,
+    "hitDice": 8,
     "proficiencies": [
       "armure:légère",
       "arme:courante",
