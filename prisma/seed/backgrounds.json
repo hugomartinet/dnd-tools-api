@@ -5,7 +5,8 @@
     "proficiencies": [
       "compétence:intuition",
       "compétence:religion",
-      "language:au-choix:2"
+      "langue:au-choix",
+      "langue:au-choix"
     ]
   },
   {
@@ -14,18 +15,18 @@
     "proficiencies": [
       "compétence:intuition",
       "compétence:persuasion",
-      "artisan:au-choix:1",
-      "language:au-choix:1"
+      "artisan:au-choix",
+      "langue:au-choix"
     ]
   },
   {
     "id": "artiste",
     "name": "Artiste",
     "proficiencies": [
-      "compétence:acrobatie",
+      "compétence:acrobaties",
       "compétence:représentation",
       "kit:déguisement",
-      "instrument:au-choix:1"
+      "instrument:au-choix"
     ]
   },
   {
@@ -45,7 +46,7 @@
       "compétence:discrétion",
       "compétence:tromperie",
       "outil:voleur",
-      "jeu:au-choix:1"
+      "jeu:au-choix"
     ]
   },
   {
@@ -65,7 +66,7 @@
       "compétence:médecine",
       "compétence:religion",
       "kit:herboriste",
-      "language:au-choix:1"
+      "langue:au-choix"
     ]
   },
   {
@@ -74,7 +75,7 @@
     "proficiencies": [
       "compétence:dressage",
       "compétence:survie",
-      "artisan:au-choix:1",
+      "artisan:au-choix",
       "véhicule:terrestre"
     ]
   },
@@ -94,8 +95,8 @@
     "proficiencies": [
       "compétence:histoire",
       "compétence:persuasion",
-      "jeu:au-choix:1",
-      "language:au-choix:1"
+      "jeu:au-choix",
+      "langue:au-choix"
     ]
   },
   {
@@ -104,7 +105,8 @@
     "proficiencies": [
       "compétence:arcanes",
       "compétence:histoire",
-      "language:au-choix:2"
+      "langue:au-choix",
+      "langue:au-choix"
     ]
   },
   {
@@ -113,8 +115,8 @@
     "proficiencies": [
       "compétence:athlétisme",
       "compétence:survie",
-      "instrument:au-choix:1",
-      "language:au-choix:1"
+      "instrument:au-choix",
+      "langue:au-choix"
     ]
   },
   {
@@ -123,7 +125,7 @@
     "proficiencies": [
       "compétence:athlétisme",
       "compétence:intimidation",
-      "jeu:au-choix:1",
+      "jeu:au-choix",
       "véhicule:terrestre"
     ]
   }

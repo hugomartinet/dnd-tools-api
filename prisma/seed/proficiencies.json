@@ -1,0 +1,150 @@
+[
+  { "id": "langue:commun", "name": "Commun", "category": "langue" },
+  { "id": "langue:elfique", "name": "Elfique", "category": "langue" },
+  { "id": "langue:géant", "name": "Géant", "category": "langue" },
+  { "id": "langue:gnome", "name": "Gnome", "category": "langue" },
+  { "id": "langue:gobelin", "name": "Gobelin", "category": "langue" },
+  { "id": "langue:halfelin", "name": "Halfelin", "category": "langue" },
+  { "id": "langue:nain", "name": "Nain", "category": "langue" },
+  { "id": "langue:orc", "name": "Orc", "category": "langue" },
+  { "id": "langue:abyssal", "name": "Abyssal", "category": "langue" },
+  { "id": "langue:céleste", "name": "Céleste", "category": "langue" },
+  {
+    "id": "langue:commun-des-profondeurs",
+    "name": "Commun des profondeurs",
+    "category": "langue"
+  },
+  { "id": "langue:draconique", "name": "Draconique", "category": "langue" },
+  { "id": "langue:infernal", "name": "Infernal", "category": "langue" },
+  { "id": "langue:primordial", "name": "Primordial", "category": "langue" },
+  { "id": "langue:profond", "name": "Profond", "category": "langue" },
+  { "id": "langue:sylvestre", "name": "Sylvestre", "category": "langue" },
+
+  {
+    "id": "artisan:alchimiste",
+    "name": "Matériel d'alchimiste",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:brasseur",
+    "name": "Matériel de brasseur",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:caligraphe",
+    "name": "Matériel de caligraphe",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:peintre",
+    "name": "Matériel de peintre",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:bijoutier",
+    "name": "Outils de bijoutier",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:bricoleur",
+    "name": "Outils de bricoleur",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:cartographe",
+    "name": "Outils de cartographe",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:charpentier",
+    "name": "Outils de charpentier",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:cordonnier",
+    "name": "Outils de cordonnier",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:forgeron",
+    "name": "Outils de forgeron",
+    "category": "artisan"
+  },
+  { "id": "artisan:maçon", "name": "Outils de maçon", "category": "artisan" },
+  {
+    "id": "artisan:menuisier",
+    "name": "Outils de menuisier",
+    "category": "artisan"
+  },
+  { "id": "artisan:potier", "name": "Outils de potier", "category": "artisan" },
+  {
+    "id": "artisan:souffleur-de-verre",
+    "name": "Outils de souffleur de verre",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:tanneur",
+    "name": "Outils de tanneur",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:tisserand",
+    "name": "Outils de tisserand",
+    "category": "artisan"
+  },
+  {
+    "id": "artisan:cuisinier",
+    "name": "Ustensiles de cuisinier",
+    "category": "artisan"
+  },
+
+  { "id": "instrument:chalemie", "name": "Chalemie", "category": "instrument" },
+  { "id": "instrument:cor", "name": "Cor", "category": "instrument" },
+  {
+    "id": "instrument:cornemuse",
+    "name": "Cornemuse",
+    "category": "instrument"
+  },
+  { "id": "instrument:flûte", "name": "Flûte", "category": "instrument" },
+  {
+    "id": "instrument:flûte-de-pan",
+    "name": "Flûte de pan",
+    "category": "instrument"
+  },
+  { "id": "instrument:luth", "name": "Luth", "category": "instrument" },
+  { "id": "instrument:lyre", "name": "Lyre", "category": "instrument" },
+  { "id": "instrument:tambour", "name": "Tambour", "category": "instrument" },
+  { "id": "instrument:tympanon", "name": "Tympanon", "category": "instrument" },
+  { "id": "instrument:viole", "name": "Viole", "category": "instrument" },
+
+  { "id": "kit:déguisement", "name": "Kit de déguisement", "category": "kit" },
+  { "id": "kit:contrefaçon", "name": "Kit de contrefaçon", "category": "kit" },
+  { "id": "kit:herboriste", "name": "Kit d'herboriste", "category": "kit" },
+
+  { "id": "jeu:dés", "name": "Dés", "category": "jeu" },
+  {
+    "id": "jeu:échecs-draconiques",
+    "name": "Jeu d'échecs draconiques",
+    "category": "jeu"
+  },
+  { "id": "jeu:cartes", "name": "Jeu de cartes", "category": "jeu" },
+  { "id": "jeu:dragons", "name": "Jeu des Dragons", "category": "jeu" },
+
+  { "id": "outil:voleur", "name": "Outils de voleur", "category": "outil" },
+  {
+    "id": "outil:navigateur",
+    "name": "Outils de navigateur",
+    "category": "outil"
+  },
+
+  {
+    "id": "véhicule:terrestre",
+    "name": "Véhicules terrestres",
+    "category": "véhicule"
+  },
+  {
+    "id": "véhicule:aquatique",
+    "name": "Véhicules aquatiques",
+    "category": "véhicule"
+  }
+]

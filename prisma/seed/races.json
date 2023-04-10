@@ -5,6 +5,13 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "charisme": 2, "au-choix": [1, 1] },
+    "proficiencies": [
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "langue:commun",
+      "langue:elfique",
+      "langue:au-choix"
+    ],
     "traits": []
   },
   {
@@ -13,6 +20,7 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "force": 2, "constitution": 1 },
+    "proficiencies": ["compétence:intimidation", "langue:commun", "langue:orc"],
     "traits": []
   },
   {
@@ -21,6 +29,7 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "force": 2, "charisme": 1 },
+    "proficiencies": ["langue:commun", "langue:draconique"],
     "traits": []
   },
   {
@@ -29,6 +38,15 @@
     "size": "Moyenne",
     "speed": 10.5,
     "modifiers": { "dextérité": 2, "sagesse": 1 },
+    "proficiencies": [
+      "compétence:perception",
+      "arme:épée-courte",
+      "arme:épée-longue",
+      "arme:arc-court",
+      "arme:arc-long",
+      "langue:commun",
+      "langue:elfique"
+    ],
     "traits": []
   },
   {
@@ -37,6 +55,14 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "dextérité": 2, "charisme": 1 },
+    "proficiencies": [
+      "compétence:perception",
+      "arme:épée-courte",
+      "arme:rapière",
+      "arme:arbalète-de-poing",
+      "langue:commun",
+      "langue:elfique"
+    ],
     "traits": []
   },
   {
@@ -45,6 +71,7 @@
     "size": "Petite",
     "speed": 7.5,
     "modifiers": { "dextérité": 1, "intelligence": 2 },
+    "proficiencies": ["langue:commun", "langue:gnome"],
     "traits": []
   },
   {
@@ -53,6 +80,7 @@
     "size": "Petite",
     "speed": 7.5,
     "modifiers": { "constitution": 1, "intelligence": 2 },
+    "proficiencies": ["langue:commun", "langue:gnome", "artisan:bricoleur"],
     "traits": []
   },
   {
@@ -61,6 +89,7 @@
     "size": "Petite",
     "speed": 7.5,
     "modifiers": { "dextérité": 2, "charisme": 2 },
+    "proficiencies": ["langue:commun", "langue:halfelin"],
     "traits": []
   },
   {
@@ -69,6 +98,7 @@
     "size": "Petite",
     "speed": 7.5,
     "modifiers": { "dextérité": 2, "constitution": 1 },
+    "proficiencies": ["langue:commun", "langue:halfelin"],
     "traits": []
   },
   {
@@ -77,6 +107,16 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "dextérité": 2, "intelligence": 1 },
+    "proficiencies": [
+      "compétence:perception",
+      "arme:épée-courte",
+      "arme:épée-longue",
+      "arme:arc-court",
+      "arme:arc-long",
+      "langue:commun",
+      "langue:elfique",
+      "langue:au-choix"
+    ],
     "traits": []
   },
   {
@@ -92,6 +132,7 @@
       "sagesse": 1,
       "charisme": 1
     },
+    "proficiencies": ["langue:commun", "langue:au-choix"],
     "traits": []
   },
   {
@@ -100,6 +141,15 @@
     "size": "Moyenne",
     "speed": 7.5,
     "modifiers": { "constitution": 2, "sagesse": 1 },
+    "proficiencies": [
+      "arme:hachette",
+      "arme:hache-d-armes",
+      "arme:marteau-léger",
+      "arme:marteau-de-guerre",
+      "artisan:brasseur|artisan:forgeron|artisan:maçon",
+      "langue:commun",
+      "langue:nain"
+    ],
     "traits": []
   },
   {
@@ -108,6 +158,17 @@
     "size": "Moyenne",
     "speed": 7.5,
     "modifiers": { "force": 2, "constitution": 2 },
+    "proficiencies": [
+      "arme:hachette",
+      "arme:hache-d-armes",
+      "arme:marteau-léger",
+      "arme:marteau-de-guerre",
+      "armure:légère",
+      "armure:intermédiaire",
+      "artisan:brasseur|artisan:forgeron|artisan:maçon",
+      "langue:commun",
+      "langue:nain"
+    ],
     "traits": []
   },
   {
@@ -116,6 +177,7 @@
     "size": "Moyenne",
     "speed": 9,
     "modifiers": { "intelligence": 1, "charisme": 2 },
+    "proficiencies": ["langue:commun", "langue:infernal"],
     "traits": []
   }
 ]

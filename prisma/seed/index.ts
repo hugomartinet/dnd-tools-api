@@ -2,6 +2,7 @@ import { flatten } from '@nestjs/common'
 import { PrismaClient } from '@prisma/client'
 import * as backgroundsData from './backgrounds.json'
 import * as classesData from './classes.json'
+import * as proficienciesData from './proficiencies.json'
 import * as racesData from './races.json'
 import * as spellsData from './spells.json'
 
@@ -14,6 +15,7 @@ async function main() {
   await prisma.spell.createMany({
     data: spellsData.map(({ classes, ...spell }) => spell),
   })
+  await prisma.proficiency.createMany({ data: proficienciesData })
 
   const classes = await prisma.class.findMany()
   const classSpellsData = spellsData.map(spell =>

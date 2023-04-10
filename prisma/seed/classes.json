@@ -11,7 +11,8 @@
       "arme:guerre",
       "sauvegarde:force",
       "sauvegarde:constitution",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "athlétisme",
@@ -34,10 +35,14 @@
       "arme:épée-courte",
       "arme:épée-longue",
       "arme:rapière",
-      "instrument:au-choix:3",
+      "instrument:au-choix",
+      "instrument:au-choix",
+      "instrument:au-choix",
       "sauvegarde:dextérité",
       "sauvegarde:charisme",
-      "compétence:au-choix:3"
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "acrobaties",
@@ -73,7 +78,8 @@
       "arme:courante",
       "sauvegarde:sagesse",
       "sauvegarde:charisme",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": ["histoire", "intuition", "médecine", "persuasion", "religion"],
     "spellcastingAbility": "sagesse"
@@ -100,7 +106,8 @@
       "kit:herboriste",
       "sauvegarde:intelligence",
       "sauvegarde:sagesse",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "arcanes",
@@ -127,7 +134,8 @@
       "arme:arbalète-légère",
       "sauvegarde:constitution",
       "sauvegarde:charisme",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "arcanes",
@@ -152,7 +160,8 @@
       "arme:guerre",
       "sauvegarde:force",
       "sauvegarde:constitution",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "acrobaties",
@@ -178,7 +187,8 @@
       "arme:arbalète-légère",
       "sauvegarde:intelligence",
       "sauvegarde:sagesse",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "arcanes",
@@ -198,10 +208,12 @@
     "proficiencies": [
       "arme:courante",
       "arme:épée-courte",
-      "artisan:au-choix:1|instrument:au-choix:1",
+      "artisan:au-choix|instrument:au-choix",
       "sauvegarde:force",
       "sauvegarde:dextérité",
-      "compétence:au-choix:3"
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "acrobaties",
@@ -222,7 +234,8 @@
       "arme:courante",
       "sauvegarde:sagesse",
       "sauvegarde:charisme",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "arcanes",
@@ -248,7 +261,8 @@
       "arme:guerre",
       "sauvegarde:sagesse",
       "sauvegarde:charisme",
-      "compétence:au-choix:2"
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "athlétisme",
@@ -273,7 +287,9 @@
       "arme:guerre",
       "sauvegarde:force",
       "sauvegarde:dextérité",
-      "compétence:au-choix:3"
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "athlétisme",
@@ -302,7 +318,10 @@
       "outil:voleur",
       "sauvegarde:dextérité",
       "sauvegarde:intelligence",
-      "compétence:au-choix:4"
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "compétence:au-choix",
+      "compétence:au-choix"
     ],
     "skills": [
       "acrobaties",

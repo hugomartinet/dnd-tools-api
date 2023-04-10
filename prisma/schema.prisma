@@ -8,12 +8,13 @@ datasource db {
 }
 
 model Race {
-  id        String   @id
-  name      String
-  size      String
-  speed     Float
-  modifiers Json
-  traits    String[]
+  id            String   @id
+  name          String
+  size          String
+  speed         Float
+  modifiers     Json
+  proficiencies String[]
+  traits        String[]
 
   @@map("race")
 }
@@ -36,6 +37,14 @@ model Background {
   proficiencies String[]
 
   @@map("background")
+}
+
+model Proficiency {
+  id       String @id
+  name     String
+  category String
+
+  @@map("proficiency")
 }
 
 model Spell {
